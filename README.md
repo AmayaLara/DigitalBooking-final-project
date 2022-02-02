@@ -10,4 +10,4 @@
 
 **Testing**: test documentation (sheets and scripts); Backend (jUnit, Postman); Frontend (React test library)
 
-**BDD**: MySQL
+**Database**: MySQL
